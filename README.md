@@ -1,14 +1,13 @@
 # Hi 👋, I'm Vitalii Novak
 A passionate **Full-Stack Developer** with 3+ years of professional experience building scalable and high-performance web applications.
 
-🔭 **Currently working on:** a **TypeScript** + **Next.js** project focused on **scalable architecture** and **performance optimization**.
+🔭 **Currently working on:** a TypeScript + Next.js project focused on scalable architecture and performance optimization.
 
-🌱 **Currently learning:** advanced **TypeScript patterns**, **performance tuning**, and **Next.js optimization techniques**.
+🌱 **Currently learning:** advanced TypeScript patterns, performance tuning, and Next.js optimization techniques.
 
 💬 **Ask me about:** my work, projects, or anything tech.
 
 ⚡ **Fun fact:** I debug faster with a cup of coffee ☕.
-
 
 ### Technologies I'm working with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
